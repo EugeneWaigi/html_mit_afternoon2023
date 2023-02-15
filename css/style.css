@@ -1,0 +1,100 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+background: cornflowerblue;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 10px;
+    margin: 15px;
+    color: black;
+}
+li a:hover{
+    background: lightgreen;
+}
+th,td{
+    border: 1px solid rebeccapurple;
+    padding: 10px;
+    margin: 10px;
+    font-family: "Bitstream Charter";
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+h2{
+    color: black;
+    font-family: Chilanka;
+    text-align: center;
+
+
+}
+p{
+    color: purple;
+}
+.fruits{
+    border: solid black;
+    background: rgba(8, 65, 183, 0.42);
+    text-align: center;
+
+    padding: 20px;
+    margin: 20px
+
+}
+.cars{
+    border: black;
+    background: lightpink;
+    text-align: center;
+    padding: 20px;
+    margin: 20px
+
+}
+.FRUITS{
+    border: #ff0707;
+    background: cornflowerblue;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+#school{
+    border: #a9c2ef 5px solid
+}
+label{
+
+    margin: 30px;
+    padding: 10px;
+    color: navy;
+
+
+}
+form{
+
+    border: 2px solid #33f100;
+    height: fit-content;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+input{
+    border: 5px solid;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+select{
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+    color: #a9c2ef;
+    text-align: center;
+    padding: 5px;
+}
+body{
+    background: mintcream;
+}
